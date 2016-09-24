@@ -1,0 +1,2 @@
+[root@localhost training]# hadoop fs -cat case2outt/part-r-00000
+32	76
